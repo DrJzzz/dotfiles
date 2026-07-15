@@ -1,2 +1,1 @@
-# .dotfiles
-Config files
+dotfiles are being admined with chezmoi
